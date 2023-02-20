@@ -5,10 +5,10 @@ This project involves training a feed-forward neural network with 3 hidden layer
 
 To run this project, you will first need to download the required data using the following links:
 
-<a href="https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_images.npy">Fashion MNIST Train Images</a> ("https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_images.npy")
-<a href="https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_labels.npy">Fashion MNIST Train Labels</a> ("https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_labels.npy")
-<a href="https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_images.npy">Fashion MNIST Test Images</a> ("https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_images.npy")
-<a href="https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_labels.npy">Fashion MNIST Test Labels</a> ("https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_labels.npy")
+<a href="https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_images.npy">Fashion MNIST Train Images</a> 
+<a href="https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_labels.npy">Fashion MNIST Train Labels</a> 
+<a href="https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_images.npy">Fashion MNIST Test Images</a> 
+<a href="https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_labels.npy">Fashion MNIST Test Labels</a> 
 
 Once you have downloaded the required data, you will need to install all the necessary libraries specified in the requirements.txt file.
 
