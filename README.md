@@ -9,6 +9,7 @@ To run this project, you will first need to download the required data using the
 <a href="https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_labels.npy">Fashion MNIST Train Labels</a> ("https://s3.amazonaws.com/jrwprojects/fashion_mnist_train_labels.npy")
 <a href="https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_images.npy">Fashion MNIST Test Images</a> ("https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_images.npy")
 <a href="https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_labels.npy">Fashion MNIST Test Labels</a> ("https://s3.amazonaws.com/jrwprojects/fashion_mnist_test_labels.npy")
+
 Once you have downloaded the required data, you will need to install all the necessary libraries specified in the requirements.txt file.
 
 To run the project, simply execute the main Python file main.py by running the following command in your terminal or command prompt:
