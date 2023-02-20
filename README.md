@@ -13,10 +13,14 @@ To run this project, you will first need to download the required data using the
 Once you have downloaded the required data, you will need to install all the necessary libraries specified in the requirements.txt file.
 
 To run the project, simply execute the main Python file main.py by running the following command in your terminal or command prompt:
-python main.py
+
+- python main.py
+
 You can adjust the hyperparameters in the code as needed to experiment with different settings.
 
 ## Output
+
 After running the main.py file, the program will output the accuracy of the trained neural network on the test dataset.
 ## Conclusion
+
 This project is a simple yet effective example of how to train a feed-forward neural network to classify images of fashion items with high accuracy. By adjusting the hyperparameters and training on different datasets, this neural network can be further optimized to achieve even higher accuracy.
